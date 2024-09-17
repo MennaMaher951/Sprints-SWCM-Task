@@ -1,0 +1,7 @@
+Cookies are small text files which are stored on your computer by your web browser. 
+There are two types of Cookie known as session Cookies and persistent Cookies. 
+A session Cookie is a temporary file which is stored in your computer for the duration of your visit to a website. 
+The Cookie is deleted when you leave the site. 
+A persistent Cookie is saved to your computer and will remain there for the duration set within the Cookie. 
+We use Cookies to give you access to certain parts of our website, our Client Portal and our Law Portal (otherwise referred to as "our websites") and to let us know how you are using our websites. 
+Our websites use seven Cookies in total, designed to enhance the user experience, control access to parts of our websites and to provide analytics on how people engage with our websites. 
